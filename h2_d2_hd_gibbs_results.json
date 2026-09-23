@@ -1,0 +1,30 @@
+{
+  "method": "B3LYP/6-31G(d)",
+  "temperature_K": 298.15,
+  "pressure_Pa": 101325.0,
+  "optimized_HH_distance_angstrom": 0.7427883610130035,
+  "electronic_energy_hartree": -1.175482407775208,
+  "species": {
+    "H2": {
+      "gibbs_hartree": -1.1768247264685299,
+      "gibbs_kj_mol": -3089.7528900622956,
+      "frequency_cm-1": 4453.120998481626,
+      "entropy_hartree_per_k": 4.961234531636094e-05
+    },
+    "D2": {
+      "gibbs_hartree": -1.1814276921534825,
+      "gibbs_kj_mol": -3101.837974789074,
+      "frequency_cm-1": 3150.042112761057,
+      "entropy_hartree_per_k": 5.509393891247962e-05
+    },
+    "HD": {
+      "gibbs_hartree": -1.1796821346352009,
+      "gibbs_kj_mol": -3097.255014161568,
+      "frequency_cm-1": 3857.0099740551664,
+      "entropy_hartree_per_k": 5.464124842928974e-05
+    }
+  },
+  "reaction": "H2 + D2 -> 2 HD",
+  "delta_g_hartree": -0.0011118506483893675,
+  "delta_g_kj_mol": -2.9191634717666277
+}
